@@ -1,6 +1,4 @@
-import React from "react";
-
-
+'use client';
 import PasswordField from "@/app/_components/passwordField";
 import InputField from "@/app/_components/inputField";
 

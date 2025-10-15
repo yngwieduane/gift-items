@@ -1,4 +1,5 @@
-import React, { useState } from "react";
+'use client';
+import { useState } from "react";
 import { EyeIcon, EyeSlashIcon } from "@heroicons/react/24/outline";
 
 const PasswordField = ({

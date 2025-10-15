@@ -1,4 +1,4 @@
-import React from 'react'
+'use client';
 const Header = () => {
   return (
     <div className='flex flex-col text-center items-center justify-center gap-4'>

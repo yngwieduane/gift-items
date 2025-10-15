@@ -1,4 +1,4 @@
-import React from "react";
+'use client';
 import LockBadge from "./CardDetails/LockBadge";
 import ImageCircle from "./CardDetails/Logo";
 import Heading from "./CardDetails/Heading";

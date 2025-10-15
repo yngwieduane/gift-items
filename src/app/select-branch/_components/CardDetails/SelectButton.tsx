@@ -1,4 +1,4 @@
-import React from 'react'
+'use client';
 import { MdOutlineKeyboardArrowRight } from "react-icons/md";
 
 const SelectButton = ({isLocked}:{isLocked:any}) => {

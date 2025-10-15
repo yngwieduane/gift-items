@@ -1,4 +1,4 @@
-import React from 'react';
+'use client';
 
 const SubmitButton = ({ children, onClick, type}:{children:any,onClick:any,type:any}) => {
   return (

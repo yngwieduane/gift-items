@@ -1,4 +1,4 @@
-import React from 'react'
+'use client';
 import Header from './Header'
 import Cards from './Cards'
 
