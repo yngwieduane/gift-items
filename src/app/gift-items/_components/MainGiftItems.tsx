@@ -8,10 +8,10 @@ import SearchBox from "./GiftItems/SearchBox"
 const MainGiftItems = () => {
   return (
     <div className='pt-5 w-full max-w-[900px]'>
-      <SearchBox />
-      <Banner />
-      <Header />
-      <GiftItems />
+        <SearchBox />
+        <Banner />
+        <Header />
+        <GiftItems />
     </div>
   )
 }

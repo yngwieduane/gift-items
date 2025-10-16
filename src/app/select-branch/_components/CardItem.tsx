@@ -44,7 +44,6 @@ const CardItem = ({
       }`}
       style={cardStyle}
             onClick={handleClick}
-      
     >
       {isLocked && <LockBadge />}
       <ImageCircle src={image} alt={title} />
